@@ -1,4 +1,3 @@
-```python
 
 '''
 Programmer la fonction verifie qui prend en paramètre un tableau de valeurs 
@@ -15,4 +14,3 @@ def verifie(liste):
             
 
 verifie([8, 12, 4])
-```
