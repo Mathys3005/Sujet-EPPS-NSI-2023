@@ -1,3 +1,5 @@
+"""python
+
 '''
 Programmer la fonction verifie qui prend en paramètre un tableau de valeurs 
 numériques non vide et qui renvoie True si ce tableau est trié dans l’ordre croissant, 
@@ -13,3 +15,4 @@ def verifie(liste):
             
 
 verifie([8, 12, 4])
+"""
